@@ -1,0 +1,20 @@
+POST http://localhost:8080/api/students
+content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzM2NzcyNTE1LCJleHAiOjE3MzkzNjQ1MTV9.igEvzY8GvLP5f7D-l9HSuv3fOwVZHWcuPRIkPcwT4jw
+
+{
+  //my name
+  //"data":
+  //  {
+  //    "name": "Suphaphon Anukun",
+  //    "mobile": "0993342056",
+  //    "cardId": "1759900386258"
+  //  }
+  //friend name
+  "data":
+    {
+      "name" : "chiraphat phengphit",
+     "mobile" : "0660808283",
+     "cardId" : "1929900799399"
+    }
+}

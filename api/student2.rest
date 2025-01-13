@@ -1,0 +1,12 @@
+POST http://localhost:8080/api/students
+content-Type: application/json
+Authorization: bearer 9557aa4cb77928b9037ae3f0d76f4b92daf0a75f0658003526775bbc9fa56476f5517d5eb26a2e4975cf7e6146004925bfa9196df715e2450721a6ee539f0f521948e5da9cdf07933b6c19907c3b6584ede37ac75616ea2010a843ed20b626a8ecb3a08f53411c806a1e74a843703b5620bd57dcf84189c01c20effec664a038
+
+{
+  "data":
+    {
+      "name" : "chiraphat phengphit",
+     "mobile" : "0660808283",
+     "cardId" : "1929900799399"
+    }
+}
