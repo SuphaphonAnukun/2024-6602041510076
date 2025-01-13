@@ -3,14 +3,15 @@ content-Type: application/json
 Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzM2NzcyNTE1LCJleHAiOjE3MzkzNjQ1MTV9.igEvzY8GvLP5f7D-l9HSuv3fOwVZHWcuPRIkPcwT4jw
 
 {
-  //my name
+  //Student  1=> Your name
   //"data":
   //  {
   //    "name": "Suphaphon Anukun",
   //    "mobile": "0993342056",
   //    "cardId": "1759900386258"
   //  }
-  //friend name
+  
+  //Student 2 => Your Friend
   "data":
     {
       "name" : "chiraphat phengphit",
